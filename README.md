@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif )(https://github.com/MuhammadArslanIftikhar/MuhammadArslanIftikhar.io)
+[![MasterHead](https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif )](https://github.com/MuhammadArslanIftikhar/MuhammadArslanIftikhar.io)
 <h1 align="center">Hi 👋, I'm Muhammad Arslan Iftikhar</h1>
 <h3 align="center">Data Science Enthusiast | Bridging the Gap between Numbers and Insights</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1NB2SwOFAzX88y8D9cLb4A.gif">
